@@ -3,6 +3,7 @@
     "type": "module",
     "scripts": {
         "dev": "vite",
+        "watch": "npm run development -- --watch",
         "build": "vite build"
     },
     "devDependencies": {
